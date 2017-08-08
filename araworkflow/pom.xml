@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>araworkflow</groupId>
   <artifactId>araworkflow</artifactId>
-  <version>1.1</version>
+  <version>10.0</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
