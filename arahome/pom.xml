@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>SGGSC</groupId>
   <artifactId>arahome</artifactId>
-  <version>1.2</version>
+  <version>10.0</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
